@@ -99,7 +99,11 @@ License: The package lock json contains the entire project versioning:
       "engines": {
         "node": ">=18"
       }
+
+
 Contribution: Feel free to contribute best practices to other developers, such as clean code, and improving the project's scope and architecture.
 Testing: Web tests with validations and assertions of screen elements via Playwright.
 Some API testing was also performed via Playwright, but the main tool used was Postman.
+
+
 Contact: github.com/NatySobreira
