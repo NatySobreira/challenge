@@ -23,12 +23,12 @@ Usage: To interact with the specs.js scripts, please run the command in the VSco
 Make sure the node_modules and dependencies appear in your project ;D
 
 License: The package lock json contains the entire project versioning:
-{
+
   "name": "challenge",
   "version": "1.0.0",
   "lockfileVersion": 3,
   "requires": true,
-  "packages": {
+  "packages": 
     "": {
       "name": "challenge",
       "version": "1.0.0",
