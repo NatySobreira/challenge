@@ -2,7 +2,7 @@ Challenge Automation Web and API
 
 Technology: Playwright for automated web and API testing
 Dependencies: Node and npm
-Technologies and Dependencies: List all technologies, libraries, and prerequisites required for installation.
+Technologies and Dependencies:  Node,npm,git, gitbash, playwright, javascript, powershell, IDE (vscode optional).
 
 Installations:
 
