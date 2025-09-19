@@ -16,7 +16,7 @@ After all these steps, if Playwright still doesn't run, please remember to run t
 npm install -D @playwright/test@latest
 (instalar dependencias - node modules)
 
-npx playwright test --headedpara rodar chrome e2e via linha de comando
+npx playwright test --headedpara rodar chrome e2e by command line.
 
 
 Usage: To interact with the specs.js scripts, please run the command in the VScode terminal: npx playwright test (command to run tests in Playwright).
